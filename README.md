@@ -77,7 +77,7 @@ In-depth technical analysis article published: ***[Deep Dive into Xget: A High-P
 - **⚡ Parallel Chunked Download**: Full support for HTTP Range requests, multiplied multi-threaded download speeds
 - **🎯 Smart Routing Optimization**: Automatically selects optimal transmission paths, avoiding network congestion nodes
 
-### 🌐 Deep Multi-Platform Integration
+### 🌐 Deep Multi-Platform Integration 
 
 - **All-in-One Multi-Platform Support**: Unified support for mainstream platforms in various development scenarios
 - **Intelligent Recognition and Conversion**: Automatically recognizes platform prefixes and converts to correct URL structures for target platforms
